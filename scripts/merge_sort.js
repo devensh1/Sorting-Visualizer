@@ -1,6 +1,6 @@
 /*
     *****************
-    DONE BY:-   TUMMALA KETHAN
+    DONE BY:-   Dinesh Pal
     
     *****************
 */
@@ -75,7 +75,7 @@ function merge_partition(start,end)
 
 /*
     *****************
-    DONE BY:-   TUMMALA KETHAN
+    DONE BY:-   Dinesh Pal
     
     *****************
 */
